@@ -22,7 +22,25 @@ Loader | Ivy has a built-in loader that can brute and send payloads to devices v
 Command Execution | You can send data to all the connected devices.
 Configuration | Ivy makes it extremely easy to configure the loader, bot, and C2.
 
+# Bot Configuration
+The configuration file for the bot is located in `util/bot/includes/config/config.h`.
+```c
+#pragma once
+
+
+/*
+    *    util/bot/includes/config/config.h
+    *    Date: 12/11/21
+    *    Author: 0x80000000
+*/
+
+
+#define C2_IP "127.0.0.1"
+#define C2_PORT 1337
+```
+	
 ## Server Configuration
+The configuration file for the bot is located in `util/config/config.go`.
 ```go
 package config
 
