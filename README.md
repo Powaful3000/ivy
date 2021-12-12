@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="https://static.thenounproject.com/png/2325457-200.png" width="150px"><br>
+	<img src="https://user-images.githubusercontent.com/95945026/145702221-ed6d438c-436c-47b9-8e9f-c9223963394b.png" width="150px"><br>
     ivy - A large botnet written in C and Golang.
 </h1>
 <p align="center">
