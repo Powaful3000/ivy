@@ -62,7 +62,7 @@ var BotCount int = 0 /* Don't touch this! */
 const (
     C2_IP = "127.0.0.1" /* Server IP! */
     C2_PORT = "1337" /* Server Port! */
-	MAX_BOTS = 1024 /* Max amount of bots allowed to connect to the server! */
+    MAX_BOTS = 1024 /* Max amount of bots allowed to connect to the server! */
 )
 
 /* Loader Configuration */
