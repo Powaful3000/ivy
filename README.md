@@ -18,7 +18,7 @@ Feature  | Description
 Anti VM | The bot for Ivy checks if it's being ran in a virtual machine by checking for the uptime and hardware specifications. If it detects anything suspicious, it exits.
 Anti Debug | The bot for Ivy checks if it's being debugged. If it is, it exits.
 Loader | Ivy has a built-in loader that can brute and send payloads to devices via ADB, SSH, and Telnet.
-Command Execution | You can send data to all the connected devices.
+Command Execution | You can remotely execute system commands on all the connected devices.
 Configuration | Ivy makes it extremely easy to configure the loader, bot, and C2.
 
 ## Bot Configuration
