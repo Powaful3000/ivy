@@ -39,7 +39,7 @@ The configuration file for the bot is located in `util/bot/includes/config/confi
 ```
 	
 ## Server Configuration
-The configuration file for the bot is located in `util/config/config.go`.
+The configuration file for the server is located in `util/config/config.go`.
 ```go
 package config
 
