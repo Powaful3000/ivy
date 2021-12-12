@@ -3,9 +3,8 @@
     ivy - A large botnet written in C and Golang.
 </h1>
 <p align="center">
-    Ivy is a large, feature-rich botnet written in C and Golang that contains a built-in loader for parsing data
-    from wordlists, and bruting devices to send payloads. Ivy's bot contains all the base features
-    for a bot, and a command handling function that the user is able to edit, for their own use.
+    Ivy is a large, feature-rich botnet written in C and Golang that is
+    extremely easy to use, and comes with a built-in loader.
 </p>
 
 <p align="center">
